@@ -1,3 +1,10 @@
+favorite foods
 1. rice
 2. dal
 3. roti
+
+favorite movies
+1. mission impossible
+2. iron man
+3. spider-man
+
